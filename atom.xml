@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gmm.wzfou.net</id>
-    <title>Gridea</title>
-    <updated>2021-02-05T07:49:28.099Z</updated>
+    <title>挖站否个人博客</title>
+    <updated>2021-02-05T08:39:26.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gmm.wzfou.net"/>
     <link rel="self" href="https://gmm.wzfou.net/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>本站由Qimm维护并提供支持</subtitle>
     <logo>https://gmm.wzfou.net/images/avatar.png</logo>
     <icon>https://gmm.wzfou.net/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 挖站否个人博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://gmm.wzfou.net/post/hello-gridea/</id>
